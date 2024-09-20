@@ -21,6 +21,13 @@ SUPABASE_URL=
 
 SUPABASE_KEY=
 
+<img src="project screenshots/1.png" alt="drawing"/>
+<img src="project screenshots/2.png" alt="drawing"/>
+<img src="project screenshots/3.png" alt="drawing"/>
+<img src="project screenshots/4.png" alt="drawing"/>
+<img src="project screenshots/5.png" alt="drawing"/>
+<img src="project screenshots/6.png" alt="drawing"/>
+
 ## Getting Started
 
 First, run the development server:
