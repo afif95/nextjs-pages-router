@@ -1,4 +1,25 @@
+# Project Description
+# The Wild Oasis - Hotel Management Application
+
+### Frontend:
+- Framework: React, Next.js (Pages Router)
+- Styling: Tailwind CSS
+
+### Backend:
+- Database: SupaBase
+
+### Features:
+- Cabin Exploration: Anyone can browse available cabins, view details, and images.
+- Contact Hotel: Anyone can contact the hotel if they have any question
+  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Running Locally
+Create a .env.local file in your root directory. Then insert these variables:
+
+SUPABASE_URL=
+
+SUPABASE_KEY=
 
 ## Getting Started
 
@@ -38,3 +59,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Deployed App:
+https://nextjs-pages-router-peach.vercel.app/
